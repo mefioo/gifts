@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gifts/static/css/main.eeeb6188.css",
+    "main.js": "/gifts/static/js/main.94db1059.js",
+    "static/js/787.4cb0a28b.chunk.js": "/gifts/static/js/787.4cb0a28b.chunk.js",
+    "index.html": "/gifts/index.html",
+    "main.eeeb6188.css.map": "/gifts/static/css/main.eeeb6188.css.map",
+    "main.94db1059.js.map": "/gifts/static/js/main.94db1059.js.map",
+    "787.4cb0a28b.chunk.js.map": "/gifts/static/js/787.4cb0a28b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eeeb6188.css",
+    "static/js/main.94db1059.js"
+  ]
+}
